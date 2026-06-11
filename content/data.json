@@ -1,0 +1,150 @@
+{
+  "presentation": {
+    "title": "苍南夹缬 - 传统靛蓝染色技艺",
+    "duration": "7 minutes",
+    "team": ["林睿", "周润东", "刘彦志", "张祖铭", "熊博文"],
+    "year": 2026
+  },
+  "slides": [
+    {
+      "number": 1,
+      "title": "苍南夹缬",
+      "subtitle": "传统靛蓝染色技艺的探寻",
+      "type": "title",
+      "duration": 15,
+      "speaker": "林睿",
+      "notes": "开场白，欢迎观众，介绍主题"
+    },
+    {
+      "number": 2,
+      "title": "什么是苍南夹缬",
+      "type": "content",
+      "duration": 45,
+      "speaker": "林睿",
+      "keyPoints": [
+        "定义：浙江苍南县的传统印染工艺",
+        "\"夹\"指通过夹、折、绞等手法",
+        "\"缬\"指带有图案的丝绸织物",
+        "约有1000多年的历史",
+        "使用天然靛蓝染料"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "历史发展与工艺特点",
+      "type": "content",
+      "duration": 45,
+      "speaker": "周润东",
+      "keyPoints": [
+        "古代：民间工艺萌芽期",
+        "中世纪：工艺臻于完美",
+        "近现代：一度衰落，现为非遗",
+        "手工性、环保性、艺术性",
+        "每件作品独一无二"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "天然靛蓝 vs 合成靛蓝",
+      "type": "comparison",
+      "duration": 60,
+      "speaker": "周润东",
+      "keyPoints": [
+        "来源、环保性、色彩、成本、应用",
+        "天然靛蓝深邃自然，可生物降解",
+        "合成靛蓝鲜艳均匀，成本较低",
+        "传统工艺坚持使用天然靛蓝"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "还原染料的原理与过程",
+      "type": "content",
+      "duration": 60,
+      "speaker": "刘彦志",
+      "keyPoints": [
+        "靛蓝分子结构：C₁₆H₁₀N₂O₂",
+        "还原过程形成隐色体",
+        "纤维吸收隐色体",
+        "空气氧化恢复为蓝色",
+        "关键参数：pH 11-12，温度40-50°C"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "传统工艺流程",
+      "type": "process",
+      "duration": 60,
+      "speaker": "刘彦志",
+      "keyPoints": [
+        "8个步骤：设计、制模、折夹、浸缸、还原、晾干、展开、后处理",
+        "核心技术：特殊折叠、控制浸染、精确还原、小心展开"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "印花工艺方法对比",
+      "type": "content",
+      "duration": 60,
+      "speaker": "张祖铭",
+      "keyPoints": [
+        "直接印花：简单高效，图案清晰",
+        "防染印花：工艺精湛，色彩对比强",
+        "直接印花用于现代工业",
+        "防染印花用于传统工艺"
+      ]
+    },
+    {
+      "number": 8,
+      "title": "传统成品与工艺细节",
+      "type": "content",
+      "duration": 45,
+      "speaker": "熊博文",
+      "keyPoints": [
+        "蓝白相间的衣物和织物",
+        "精美的对称图案设计",
+        "明显的手工质感",
+        "线条清晰，色彩层次丰富"
+      ]
+    },
+    {
+      "number": 9,
+      "title": "文化意义与发展前景",
+      "type": "content",
+      "duration": 30,
+      "speaker": "熊博文",
+      "keyPoints": [
+        "代表中国传统工艺文明",
+        "国家级非遗保护项目",
+        "文创产业开发",
+        "国际文化交流窗口"
+      ]
+    }
+  ],
+  "colors": {
+    "darkBlue": "#195282",
+    "mediumBlue": "#3479ad",
+    "lightBlue": "#4896b0",
+    "skyBlue": "#90bed4",
+    "white": "#FFFFFF",
+    "darkGray": "#333333",
+    "mediumGray": "#666666",
+    "lightGray": "#DCDCDC"
+  },
+  "fonts": {
+    "title": "SimHei",
+    "body": "SimHei",
+    "fallback": "Arial"
+  },
+  "timing": {
+    "totalDuration": "7 minutes",
+    "perSlideAverage": "45-60 seconds",
+    "breakdown": {
+      "speaker1": "林睿 - 1分钟（第1-2页）",
+      "speaker2": "周润东 - 1分30秒（第3-4页）",
+      "speaker3": "刘彦志 - 2分钟（第5-6页）",
+      "speaker4": "张祖铭 - 1分钟（第7页）",
+      "speaker5": "熊博文 - 1分30秒（第8-9页）"
+    }
+  }
+}
